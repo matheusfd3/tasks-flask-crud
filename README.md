@@ -21,7 +21,7 @@ A API `tasks-flask-crud` oferece os seguintes endpoints para gerenciar tarefas:
 
 1. **Clone o repositório**:
    ```bash
-    git clone https://github.com/matheusfd3/tasks-flask-crud.git
+   git clone https://github.com/matheusfd3/tasks-flask-crud.git
    
    cd tasks-flask-crud
    ```
